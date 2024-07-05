@@ -25,9 +25,9 @@ TF-IDF (Term Frequency-Inverse Document Frequency) was employed for feature vect
 In the context of spam detection, TF-IDF was used to transform each email into a numerical vector representation based on the frequency of terms specific to that email compared to the entire dataset. This vectorization technique helps in capturing the unique characteristics of spam and ham emails, enabling machine learning models to effectively classify them.
 
 ## Models
-Naive Bayes
-Logistic Regression
-Support Vector Machine
+- Naive Bayes
+- Logistic Regression
+- Support Vector Machine
 
 ## Evaluation
 The models were evaluated using metrics such as accuracy, precision, recall, and F1-score. The evaluation focused on the ability to correctly classify spam emails while minimizing false positives (non-spam emails classified as spam).
