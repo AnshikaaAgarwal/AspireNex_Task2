@@ -1,17 +1,17 @@
 # AspireNex_Task2
 # Spam SMS Detection
-# Spam Detection Model
+
 
 ## Overview
 This project focuses on detecting spam emails using machine learning techniques. The dataset used consists of labeled emails categorized as spam or non-spam (ham). Various natural language processing (NLP) techniques and classification algorithms were implemented to build and evaluate the detection system.
 
 ## Table of Contents
 - [Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
-- [UnderSampling]
-- [TF-IDF]
-- [Models]
-- [Evaluation]
-- [Results]
+- UnderSampling
+- TF-IDF
+- Models
+- Evaluation
+- Results
 
 
 ## Dataset
